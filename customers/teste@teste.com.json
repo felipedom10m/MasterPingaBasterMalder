@@ -1,11 +1,12 @@
 {
   "email": "teste@teste.com",
-  "senha": "teste-test_8",
+  "senha": "teste-8gckx3",
   "produto": "MasterPingaBasterMalder",
   "upsells_comprados": [
     2
   ],
   "data": "2025-08-15T22:19:33.680Z",
   "transacao_id": "test_87605",
-  "acesso_liberado": true
+  "acesso_liberado": true,
+  "data_recuperacao": "2025-08-15T22:20:09.073Z"
 }
